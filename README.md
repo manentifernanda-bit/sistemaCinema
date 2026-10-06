@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sistemadecinema
 
 ## Equipe:
@@ -72,3 +73,6 @@ Cadastrar salas;
 Cadastrar sessões;
 Realizar o gerenciamento de ingressos.
 
+=======
+# sistemaCinema
+>>>>>>> aee42c0 (Initial commit)
